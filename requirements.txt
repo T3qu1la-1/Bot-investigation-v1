@@ -1,0 +1,5 @@
+
+telethon
+tgcrypto
+aiofiles
+pyrogram
